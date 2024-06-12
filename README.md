@@ -119,6 +119,6 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
    - A satisfaction survey is sent to the user.
    - The feedback is reviewed, and positive feedback is noted.
 
- Conclusion:
+  <h2>Conclusion:<h2>
 
 Understanding the ticket lifecycle in osTicket helps streamline support processes, ensuring efficient issue resolution and user satisfaction. By following these steps, support teams can effectively manage tickets from creation to closure.
