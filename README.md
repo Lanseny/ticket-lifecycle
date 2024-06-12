@@ -25,7 +25,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-Step 1: Ticket Creation
+ ## Step 1: Ticket Creation
 
 **Scenario:** A user encounters an issue with their email and needs assistance.
 
@@ -39,7 +39,7 @@ Step 1: Ticket Creation
    - osTicket fetches the email and automatically creates a ticket with the email content.
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
- Step 2: Ticket Assignment and Initial Response
+  ## Step 2: Ticket Assignment and Initial Response
 
 1. **Ticket Assignment:**
    - The newly created ticket appears in the support team's queue.
@@ -50,7 +50,7 @@ Step 1: Ticket Creation
    - The agent sends an initial response to the user, acknowledging receipt of the ticket and providing an estimated resolution time.
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-Step 3: Ticket Categorization and Prioritization
+## Step 3: Ticket Categorization and Prioritization
 
 1. **Categorization:**
    - The agent categorizes the ticket based on the issue type (e.g., software, hardware, network).
@@ -60,7 +60,7 @@ Step 3: Ticket Categorization and Prioritization
    - The agent sets the ticket priority (e.g., Low, Medium, High) based on the issue's impact on the user or business operations.
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  
-  Step 4: Ticket Investigation and Updates
+ ## Step 4: Ticket Investigation and Updates
 
 1. **Investigation:**
    - The agent investigates the issue by reviewing the user's description and any attached files.
@@ -71,7 +71,7 @@ Step 3: Ticket Categorization and Prioritization
    - The user receives notifications for each update, keeping them informed about the status.
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-  Step 5: Ticket Resolution and Closure
+   ## Step 5: Ticket Resolution and Closure
 
 1. **Resolution:**
    - The agent identifies the solution and implements it (e.g., fixes the email configuration issue).
@@ -82,7 +82,7 @@ Step 3: Ticket Categorization and Prioritization
    - If the user confirms, the agent closes the ticket. If the issue persists, the user can reopen the ticket, and the agent will continue to work on it.
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-### Step 6: Post-Resolution Activities
+  ## Step 6: Post-Resolution Activities
 
 1. **Ticket Closure:**
    - Once the user confirms the issue is resolved, the agent closes the ticket.
@@ -94,7 +94,7 @@ Step 3: Ticket Categorization and Prioritization
 
 
 
-**Example Scenario: User Unable to Access Email**
+## Example Scenario: User Unable to Access Email
 
 1. **Ticket Creation:**
    - User submits a ticket via the support portal with the subject "Unable to Access Email" and describes the issue.
